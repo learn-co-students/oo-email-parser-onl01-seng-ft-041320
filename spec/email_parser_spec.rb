@@ -1,3 +1,5 @@
+
+
 describe "EmailAddressParser" do
   describe '#parse' do
     it "parses CSV emails" do
